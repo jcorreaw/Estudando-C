@@ -36,4 +36,6 @@ void main(){
     scanf("%c", &letra);
     printf("O valor de Letra mudou para: %c \n", letra);
 
+    system("pause");
+
 }
