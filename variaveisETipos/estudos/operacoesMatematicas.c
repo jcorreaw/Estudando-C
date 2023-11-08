@@ -25,7 +25,7 @@ void main(){
     printf("\n O resto da divisão de %d e %d é: %d",a, b, a % b);
 
     //Valor Absoluto
-    printf("\n O valor absoluto de -3 é: %d", abs(-3));
+    printf("\n O valor absoluto de -3 é: %d \n", abs(-3));
 
 
     system("pause");
