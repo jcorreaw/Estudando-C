@@ -16,4 +16,6 @@ void main(){
 
     printf("O resultado da multiplicação é: %d", multiplicacao);
 
+
+
 }
