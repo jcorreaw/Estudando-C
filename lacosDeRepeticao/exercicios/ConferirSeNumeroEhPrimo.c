@@ -25,4 +25,6 @@ void main() {
     }else{
         printf("O número não é primo! Pois ele tem %d divisores", aux);
     }
+
+    printf("teste");
 }
